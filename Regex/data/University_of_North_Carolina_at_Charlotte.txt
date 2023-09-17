@@ -1,0 +1,242 @@
+{{Use mdy dates|date=October 2011}}
+{{Infobox university
+| name = The University of North Carolina at Charlotte
+| native_name = 
+| latin_name = 
+| image = UNC Charlotte seal.png
+| image_upright = .7
+| motto = 
+| established = {{start date and age|1946}}<ref name="University History">{{cite web|url=http://publicrelations.uncc.edu/information-media-kit/university-history|title=University History - Office of News and Information - UNC Charlotte|website=publicrelations.uncc.edu|access-date=May 11, 2017}}</ref>
+| type = [[Public university|Public]]
+| parent = [[University of North Carolina|UNC System]]
+| endowment = $230.35 million (2019)<ref>As of June 13, 2020. {{cite web| title = National Association of College and University Business Officers| work = U.S. and Canadian Institutions Listed by Fiscal Year (FY) 2019 Endowment Market Value and Change* in Endowment Market Value from FY2018 to FY2019| url =https://www.nacubo.org/-/media/Nacubo/Documents/EndowmentFiles/2019-Endowment-Market-Values--Final-Feb-10.ashx?la=en&hash=E71088CDC05C76FCA30072DA109F91BBC10B0290| format = PDF| access-date = June 13, 2020 }}</ref>
+| staff = 
+| faculty = 1,456<ref>{{cite web |url=http://publicrelations.uncc.edu/sites/publicrelations.uncc.edu/files/media/factsheet_November2013.pdf |title=Archived copy |access-date=2014-08-05 |url-status=dead |archive-url=https://web.archive.org/web/20140729204045/http://publicrelations.uncc.edu/sites/publicrelations.uncc.edu/files/media/factsheet_November2013.pdf |archive-date=July 29, 2014 |df=mdy-all }}</ref>
+| president = 
+| provost = Joan Lorden
+| principal = 
+| rector = 
+| chancellor = Sharon Gaber
+| vice_chancellor = Kevin Bailey
+| dean = Christine Reed Davis
+| head_label = 
+| head = 
+| students = 30,146 (Fall 2020)<ref name="admissions">{{cite web|url=https://admissions.uncc.edu/about-unc-charlotte/university-profile|title=UNIVERSITY PROFILE|website=admissions.uncc.edu|access-date=October 11, 2020}}</ref>
+| undergrad = 24,175 (Fall 2020)<ref name="admissions" />
+| postgrad = 5,971 (Fall 2020)<ref name="admissions" />
+| city = [[Charlotte, North Carolina|Charlotte]]
+| state = [[North Carolina]]
+| country = United States
+| campus = [[University City (Charlotte neighborhood)|University City]]<br />{{convert|1000|acre|km2|1|abbr=on}}
+| former_names = Charlotte Center of the University of North Carolina (1946–1949)<br />Charlotte College (1949–1965)<ref name="University History"/>
+| free_label = 
+| free = 
+| athletics = [[NCAA Division I]] – [[Conference USA|C-USA]]
+| sports = 18 varsity sports<ref name="publicrelations.uncc.edu">{{cite web|url=http://publicrelations.uncc.edu/sites/publicrelations.uncc.edu/files/media/factsheet_march%202012.pdf|title=Faculty|access-date=May 11, 2017|url-status=dead|archive-url=https://web.archive.org/web/20150914165430/http://publicrelations.uncc.edu/sites/publicrelations.uncc.edu/files/media/factsheet_march%202012.pdf|archive-date=September 14, 2015|df=mdy-all}}</ref>
+| colors = Green and white<br />{{color box|#00703C}}&nbsp;{{color box|#FFFFFF}}
+| mascot = [[Norm the Niner]]
+| nickname = [[Charlotte 49ers|49ers]]
+| affiliations = [[Association of Public and Land-Grant Universities|APLU]]<br />[[Coalition of Urban and Metropolitan Universities|CUMU]]<br />[[Oak Ridge Associated Universities|ORAU]]
+| footnotes = 
+| website = {{URL|www.uncc.edu}}
+| logo = UNC Charlotte logo.svg
+}}
+
+[[File:Ucity.jpg|thumb|250px|Aerial view of UNC Charlotte]]
+
+'''The University of North Carolina at Charlotte''' ('''UNC Charlotte''', '''UNCC''', or simply '''Charlotte'''<ref>{{Cite news|url=https://www.charlottefive.com/stop-mangling-unc-charlottes-name/|title=Stop mangling UNC Charlotte’s name|date=2018-11-15|work=The Charlotte Five|access-date= January 3, 2019|language=en}}</ref>) is a [[public education|public]] [[research university]] in [[Charlotte, North Carolina]]. UNC Charlotte offers 23 doctoral, 64 master's, and 140 bachelor's degree programs through nine colleges: the College of Arts + Architecture, the College of Liberal Arts & Sciences, the Belk College of Business, the College of Computing and Informatics, the Cato College of Education, the William States Lee College of Engineering, the College of Health and Human Services, the Honors College, and the University College.<ref>{{cite web|url=http://admissions.uncc.edu/academics|title=Academics|date=July 9, 2014|access-date=May 11, 2017}}</ref>
+
+UNC Charlotte is the largest institution of higher education in the Charlotte region. The university has experienced rapid enrollment growth of 33% over the past 10 years, making it the fastest-growing institution in the UNC System and contributing to more than 50% of the system's growth since 2009.<ref>{{cite web|url=http://ninertimes.com/2017/06/how-the-n-c-budget-could-impact-unc-charlotte/|title=How the N.C. budget could impact UNC Charlotte|date=June 27, 2017|website=ninertimes.com}}</ref> It is [[Carnegie Classification of Institutions of Higher Education|classified]] among "R2: Doctoral Universities – High research activity".<ref name=carnegie>{{cite web |title=Carnegie Classifications Institution Lookup |url=https://carnegieclassifications.iu.edu/lookup/view_institution.php?unit_id=199139 |publisher=Center for Postsecondary Education |website=carnegieclassifications.iu.edu |access-date=13 September 2020}}</ref> In 2020, it surpassed the [[University of North Carolina at Chapel Hill]] to become the second-largest school in the UNC system by student enrollment.
+
+It has three campuses: Charlotte Research Institute Campus, Center City Campus, and the main campus, located in [[University City, North Carolina|University City]]. The main campus sits on 1,000 wooded acres with approximately 85 buildings about {{convert|8|mi|km}} from Uptown Charlotte.<ref name=autogenerated1>{{cite web|url=http://admissions.uncc.edu/about|title=About UNC Charlotte|date=July 9, 2014|access-date=May 11, 2017}}</ref>
+
+==History==
+
+The city of Charlotte had sought a public university since 1871 but was never able to sustain one. For years, the nearest state-supported university was {{convert|90|mi|km}} away. The city submitted a bid in the late 1880s for what would become [[North Carolina State University]], but lost to the city of [[Raleigh, North Carolina|Raleigh]] after a local farmer offered to donate land for the campus.<ref name="Sanford, Ken 1996, p. 5">Sanford, Ken. "Charlotte and UNC Charlotte: Growing Up Together". UNC Charlotte Press, 1996, p. 5.</ref> In 1946, the city sought a state-run medical school; instead, the state expanded the [[University of North Carolina School of Medicine|existing two-year school]] at [[University of North Carolina at Chapel Hill|UNC-Chapel Hill]].<ref name="Sanford, Ken 1996, p. 5"/>
+
+On September 23, 1946, the State of [[North Carolina]] opened the '''Charlotte Center of the University of North Carolina''' with an enrollment of 278 students.<ref>Sanford, Ken. "Charlotte and UNC Charlotte: Growing Up Together". UNC Charlotte Press, 1996, p. 9.</ref> It was founded to serve the educational needs of returning World War II veterans. Like many of the United States' "[[post–World War II baby boom|post–World War II]]" universities, it owes its inception to the [[G.I. Bill]] and its effects on [[public education]]. In 1949, when the state began closing the centers, the Charlotte Center was taken over by the city school district and became '''Charlotte College''', a two-year [[junior college]]. It was first funded by student tuition payments, then by local property taxes. Classes were held at Central High School near uptown Charlotte, but by 1957, enrollment increased to 492, and the school's leaders began searching for a permanent site for the campus. They decided on a 250-acre (1&nbsp;km²) tract of land northeast of the city near the [[Cabarrus County, North Carolina|Cabarrus County]] border.<ref>Sanford, Ken. "Charlotte and UNC Charlotte: Growing Up Together". UNC Charlotte Press, 1996, pp. 44–46.</ref> The college became state-supported in 1958 upon joining the newly formed [[North Carolina Community College System]] and moved to its current location in 1961.
+
+In 1963, Charlotte College became a four-year college. On July 1, 1965, it merged with the Consolidated University of North Carolina (since 1972 called the [[University of North Carolina]]) under its current name. In 1969, the university began offering programs leading to master's degrees. In 1992, it was authorized to offer programs leading to doctoral degrees.<ref>{{cite web|url=http://www.publicrelations.uncc.edu/default.asp?id=26|title=UNC Charlotte :: Public Relations :: University History|access-date=May 11, 2017|archive-url=https://web.archive.org/web/20071025003239/http://www.publicrelations.uncc.edu/default.asp?id=26|archive-date=October 25, 2007|url-status=dead|df=mdy-all}}</ref>
+
+===Leaders of the university===
+{| class="wikitable"
+|-
+! Order !! Chancellor !! Years as Chancellor
+|-
+| 1 || [[Bonnie Ethel Cone]] || (founder; director, 1946–1949; president, 1949–1965; acting chancellor, 1965–1966)
+|-
+| 2 || [[Dean W. Colvard]] || (1966–1978)
+|-
+| 3 || [[E.K. Fretwell]] || (1979–1989)
+|-
+| 4 || [[James H Woodward|James H. Woodward]] || (1989–2005)
+|-
+| 5 || [[Philip L. Dubois]] || (2005–2020)<ref>{{cite web|url=http://chancellor.uncc.edu/directory/philip-l-dubois|title=Philip L. Dubois - Office of the Chancellor - UNC Charlotte|website=chancellor.uncc.edu|access-date=May 11, 2017}}</ref>
+|-
+| 6 || [[Sharon Gaber]] || (2020–present)
+|}
+
+====Bonnie Ethel Cone, founder====
+{{main|Bonnie Ethel Cone}}
+[[File:Conegrave.jpg|thumb|275px|right|Bonnie Cone's final resting place on the campus of UNC Charlotte, with Cato Hall and Fretwell Hall in the background. Also thought to be the meeting place of Diu Memoriae Consilium.]]
+[[Bonnie Ethel Cone]] (1907–2003), or Miss Bonnie as she was known to students, was chosen to as director of the Charlotte Center in 1946. From 1949 to 1965, she served as president of Charlotte College.<ref>{{cite web|url=http://library.uncc.edu/manuscript/ms0112|title=UNC Charlotte Finding Aids - Search - Text: ms0112|website=library.uncc.edu|access-date=May 11, 2017}}</ref> When Charlotte College joined the UNC system in 1965, Cone served as acting chancellor until 1966.
+
+====Chancellors====
+[[Dean W. Colvard]] (1913–2007) was appointed the first chancellor of the young university in 1966. A North Carolina native, Colvard had served as president of [[Mississippi State University]] (MSU). At MSU he was the first president to defy university policy of not playing against integrated teams when he ordered the men's basketball team to play [[Loyola University Chicago]] in 1963. At UNC Charlotte, Colvard took on the challenge of converting the school from a small college to a four-year member of the UNC system. Indeed, he had been chosen specifically because UNC system officials believed the newly-minted UNC Charlotte needed a leader with experience running a four-year university. Colvard oversaw accreditation of the university, development of University Research Park (now one of the top five largest research parks in the country), constructed the first residence halls, created the first graduate programs, and grew the enrollment from about 1,700 to just over 8,000 students. He retired as chancellor in 1978, served as Chancellor [[Emeritus]] until his death. Colvard also received the Order of the Long Leaf Pine. The Colvard building, completed on the main campus in 1979, is named in his honor and houses the Department of Psychology.
+
+[[E.K. Fretwell]] (1923–2012), the second chancellor of the university, was named in 1979. He came to the university from Buffalo State College where he was president. Under Fretwell, campus enrollment surged from 8,000 students to over 12,000. He oversaw the creation of the Graduate School, created more graduate degrees, integrated the library's card catalog into the Internet in 1983, created the groundwork for a major business incubator, helped to develop the university's surrounding neighborhood, and increased academic grants to over $6.1&nbsp;million. Fretwell retired as chancellor in 1989. He served as interim president of the [[University of Massachusetts]] system from 1991–1992, and in 1998, he served as the interim president of the [[University of North Florida]]. In 1996 UNC Charlotte opened the Fretwell building, dedicated in honor of him and his wife Dorrie. The building headquarters the College of Liberal Arts & Sciences.
+
+[[James H Woodward|James H. Woodward]] succeeded Fretwell in 1989. Woodward came to UNC Charlotte from the [[University of Alabama at Birmingham]] where he served as dean of engineering and senior vice president of academic affairs. Under Woodward, enrollment grew to over 19,000 students. Like his predecessors, he continued the growth of the Graduate School and added new doctoral programs. He oversaw the largest fundraising campaign in the school's history and its largest building boom; in the summer of 2005, no less than six buildings were actively under construction on the main campus. He also oversaw the creation of the CRI Campus. Woodward announced his retirement in 2004 and left the office of chancellor on June 30, 2005. Woodward Hall, which houses the College of Computing & Informatics, was dedicated in his honor on November 16, 2005. He is currently Chancellor Emeritus and teaches in the university's William States Lee College of Engineering.
+
+Philip L. Dubois is the fifth leader and fourth chancellor of the university. Dr. Dubois assumed his duties as chancellor on July 15, 2005. He returned to Charlotte after serving as the president of the [[University of Wyoming]] from 1997 through 2005. Previously, he was the [[Provost (education)|Provost]] and Professor of Political Science in the Department of Political Science (now the Department of Political Science and Public Administration) at UNC Charlotte from 1991 until 1997. Dubois, along with his wife and children, is the first chancellor to occupy the Chancellor's Residence (known as the Bissell House) on the UNC Charlotte campus that was completed in the winter of 2005. He is expected to oversee the process of the university becoming the fourth research-extensive university in the state.
+
+=== 2019 shooting ===
+{{main|University of North Carolina at Charlotte shooting}}
+
+On April 30, 2019, a [[mass shooting]] occurred in the Woodford A. Kennedy Building on campus, killing two and leaving four others injured.<ref name="cbs">{{cite web|url=https://www.cbsnews.com/live-news/uncc-shooting-multiple-dead-injured-shooting-university-north-carolina-charlotte-today-2019-04-30/|title=UNCC shooting: 2 dead, 4 injured in shooting at Charlotte campus — live updates|date=April 30, 2019|website=[[CBS News]]|publication-date=May 1, 2019|url-status=live|archive-url=https://web.archive.org/web/20190501000121/https://www.cbsnews.com/live-news/uncc-shooting-multiple-dead-injured-shooting-university-north-carolina-charlotte-today-2019-04-30/|archive-date=May 1, 2019|access-date=May 1, 2019}}</ref><ref>{{cite web|url=https://www.wcnc.com/article/news/live_breaking/live-updates-2-killed-4-hurt-in-unc-charlotte-shooting/275-122b4181-8571-441e-b679-85baa9fec914|title=Live updates: 2 killed, 4 hurt in UNC Charlotte shooting|date=April 30, 2019|website=WCNC|url-status=live|archive-url=https://web.archive.org/web/20190501002835/https://www.wcnc.com/article/news/live_breaking/live-updates-2-killed-4-hurt-in-unc-charlotte-shooting/275-122b4181-8571-441e-b679-85baa9fec914|archive-date=May 1, 2019|access-date=May 1, 2019}}</ref> The shooter, identified as Trystan Andrew Terrell, was arrested shortly afterwards.<ref name=WFAE_Terrell>{{cite news|url=https://www.wfae.org/post/unc-charlotte-shooter-pleads-guilty-murder#stream/0|title=UNC Charlotte shooter pleads guilty to murder|work=WFAE|date=September 20, 2019|access-date=September 20, 2019}}</ref>
+
+==Campuses==
+
+===Main Campus – University City===
+The university operates several campuses in Charlotte. The Main Campus is situated on just under 1,000 acres (4&nbsp;km<sup>2</sup>) of rolling land between [[U.S. Route 29]] and [[North Carolina Highway 49|N.C. Highway 49]], about 10&nbsp;miles (16&nbsp;km) from Uptown Charlotte in the [[University City, North Carolina|University City]] neighborhood. The campus is self-contained, meaning that no major roads run through the campus. The campus boasts several [[Reservoir|man-made lakes]], and is heavily wooded. Near the center of campus are two gardens that attract over 300,000 visitors a year. The architecture of the original central campus, particularly the oldest buildings, are precast concrete and utilitarian-looking because they were built with limited state funds in the 1960s and 1970s. Starting in 2014, these buildings are being renovated to today's standards. Under the campus' third chancellor, James Woodward, the campus underwent major changes which continue today. The newest buildings, funded from state bonds, are being constructed in brick with neoclassical architecture. Concrete and asphalt sidewalks have largely been replaced by brick. The campus' road system is being upgraded to include landscaped medians and more trees.<ref name="cri.uncc.edu">{{cite web|url=http://cri.uncc.edu/about-cri|title=About CRI - Charlotte Research Institute - UNC Charlotte|website=cri.uncc.edu|access-date=May 11, 2017}}</ref>
+
+[[File:UNCCNewQuad.jpg|302x302px|thumb|right|This quad-style area was completed in 2007 with the completion of the College of Health and Human Services (left) and the Cato College of Education (right).]]
+
+===Charlotte Research Institute Campus===
+The [[Charlotte Research Institute]] was created in 2000. It sits on a 100-acre (0.4&nbsp;km²) campus, attached to the main UNCC campus, on a tract of land originally named the Millennial Campus. The research-oriented CRI Campus focuses on precision metrology and intelligent manufacturing, optoelectronics and optical communication, and software and information technology. This campus brings together faculty, students, and outside researchers to work together.
+
+The CRI Campus also houses the new, on-campus football stadium, with 15,300 initial seats that can be expanded to more than 40,000.<ref name="cri.uncc.edu"/>
+
+===Center City Campus===
+[[File:UNC Charlotte Center City Campus.jpg|alt=UNC Charlotte's Center City Campus|left|thumb|UNC Charlotte's Center City Campus is located on 9th Street in Uptown Charlotte. The building is home to a number of graduate-level programs in order to meet the needs of working professionals in the second largest financial city in America.]]
+The third campus is in the [[Uptown Charlotte#First Ward|first ward of Uptown Charlotte]]. This campus focuses on business and evening courses, thus catering to center city workers. Formerly located in the Mint Museum of Craft+Design, the Uptown campus moved into the $50.4 million Center City building at 320 East Ninth Street, at the beginning of the Fall 2011 semester. It is next to the 9th Street Station of the [[Blue Line Extension/Northeast Corridor (LYNX)|LYNX Blue Line Extension]] and First Ward Park, and houses the nationally ranked Master of Business Administration (MBA),<ref>{{cite web|url=http://mba.uncc.edu/news/us-news-ranks-unc-charlotte%E2%80%99s-part-time-mba-among-nation%E2%80%99s-top-programs|title=U.S. News ranks UNC Charlotte’s part-time MBA among nation’s top programs - Master of Business Administration - UNC Charlotte|website=mba.uncc.edu|access-date=May 11, 2017}}</ref> Master of Urban Design (MUD), Master of Public Administration (MPA), and other graduate programs.<ref>{{cite web |url=http://www.charlotteobserver.com/2011/08/23/2546236/uncc-hub-opens.html |title=Charlotte Observer: ''UNCC hub opens in 'Rubik's Cube' building uptown'', by David Perlmutt, August 23, 2011 |access-date=September 12, 2011 |archive-url=https://web.archive.org/web/20120524204308/http://www.charlotteobserver.com/2011/08/23/2546236/uncc-hub-opens.html |archive-date=May 24, 2012 |url-status=dead |df=mdy-all }}</ref> The facility contains an art gallery, a 300-seat auditorium, and a 110-seat lecture hall. The 12-story, 143,000 square foot Center City building was designed by world-renowned architectural firm [[KieranTimberlake]].<ref>[http://www.bizjournals.com/charlotte/stories/2009/03/16/daily44.html Charlotte Business Journal: ''UNC Charlotte reveals uptown building design'', by Will Boye, March 18, 2009]</ref> The building features exterior glass walls individually tailored to the amount of sunlight, and cantilevered multi-story blocks which provide shade and give the building a distinctive look resembling a stack of books.<ref>[https://archive.is/20120722062115/http://www.charlotteobserver.com/2012/03/11/3091264/bringing-daylight-indoors.html%23storylink=misearch#storylink=misearch Charlotte Observer: ''Bringing daylight indoors'', by Hannah Miller, March 11, 2012]</ref>
+
+==Students==
+
+Approximately 28,721 students were enrolled in the university in the fall of 2016 (23,404 undergraduate), 47 percent are male and 53 percent are female. Students hail from 97 of North Carolina's 100 counties, 45 states, and 103 countries.<ref name="University History"/>
+
+==Academics==
+{{Infobox US university ranking
+| Forbes = 485<ref>{{cite web |title=America's Top Colleges 2019 |date=August 15, 2019 |access-date=January 28, 2020 |website=Forbes |url=https://www.forbes.com/top-colleges/#4e048f801987 }}</ref>
+| USNWR_NU = 228<ref>{{cite web |title=2020 Best National University Rankings |url=https://www.usnews.com/best-colleges/rankings/national-universities?schoolName=University+of+North+Carolina--Charlotte |website=US News & World Report |access-date=28 January 2020}}</ref>
+| Wamo_NU = 119<ref>{{cite web |title=2019 National University Rankings |url=https://washingtonmonthly.com/2019college-guide/national |website=Washington Monthly |access-date=28 January 2020}}</ref>}}
+
+UNC Charlotte is [[Carnegie Classification of Institutions of Higher Education|classified]] among "R2: Doctoral Universities – High research activity."<ref name=carnegie/> In 2014, UNC Charlotte was ranked the 38th top college in the United States by the Social Mobility Index college rankings.<ref>{{cite web | title =Social Mobility Index | website =Social Mobility Index | publisher = CollegeNet and PayScale| date = 2014| url =http://socialmobilityindex.org/| access-date = June 5, 2015}}</ref> The 2013 edition of the ''[[U.S. News & World Report]] Best Colleges'' ranked the university's undergraduate program 199th overall among national universities,<ref>{{cite web|url=http://colleges.usnews.rankingsandreviews.com/best-colleges/unc-charlotte-2975|title=U.S. News & World Report – UNC Charlotte|access-date=May 11, 2017}}</ref> however by 2020 it had dropped to 228<ref>{{cite web |title=2020 Best National University Rankings |url=https://www.usnews.com/best-colleges/rankings/national-universities?schoolName=University+of+North+Carolina--Charlotte |website=US News & World Report |access-date=28 January 2020}}</ref> [[Forbes]] has ranked the university at 485th Nationally.<ref>{{cite web|url=https://www.forbes.com/colleges/university-of-north-carolina-at-charlotte/|title=University of North Carolina, Charlotte|access-date=May 11, 2017}}</ref> In 2015, [[American City Business Journals]] evaluated and ranked the top 484 public colleges and universities in the United States based on selectivity, advancement, prestige, costs, diversity, and community.<ref>{{cite web|url=http://www.bizjournals.com/bizjournals/news/2015/02/12/michigan-earns-top-honors-in-rankings-of-public.html |title=Michigan earns honors |date=2015 |website=www.bizjournals.com |format=PDF}}</ref> In the publication, UNC Charlotte was ranked at #137, landing in the top 30% of public universities.<ref>{{cite web|url=http://www.bizjournals.com/bizjournals/news/2015/02/12/college199139.html |title=College info |date=2015 |website=www.bizjournals.com |format=PDF}}</ref> [[File:Belktower.jpg|233x233px|thumb|The Carillon and J. Murrey Atkins Library entrance on UNC Charlotte's main campus (left) and the Belk Tower (middle), which was torn down in 2016]]
+
+===Colleges and programs===
+The university offers 171 majors that lead to 79 baccalaureate ([[bachelor's degree]]) degrees, 66 [[master's degree]] programs, and 24 [[Doctorate|doctoral]] programs. Fifteen degree and certificate programs are offered via distance education, from 25% to 100% online.
+
+The university is divided into nine colleges:
+* College of Liberal Arts & Sciences - academic disciplines including the [[humanities]], [[social sciences]], [[natural sciences]], and [[mathematics]]
+* College of Arts + Architecture - [[Fine arts|fine]] and [[performing arts]] (art, theater, dance, and music), as well as the School of Architecture, which is housed within the college
+* Cato College of Education - the [[school of education]]
+* College of Health and Human Services - [[social work]] Kinesiology, and athletic training; also contains the School of Nursing and programs like public health and health administration.
+* William States Lee College of Engineering - [[engineering college]] with undergraduate and graduate programs in the following: civil and environmental engineering, mechanical engineering and engineering science, electrical and computer engineering, systems engineering and engineering management, construction management, and engineering technology
+* College of Computing and Informatics - [[computer science]], [[computer programming]], [[health informatics]], and [[bioinformatics]]
+* Belk College of Business - the [[business school]], which offers undergraduate, graduate and executive education in five major departments: Accounting, Business Information Systems & Operations Management (BISOM), Economics, Finance, Management, and Marketing.<ref>{{cite web|url=http://belkcollege.uncc.edu/departments|title=Departments in the Belk College of Business - Belk College of Business - UNC Charlotte|website=belkcollege.uncc.edu|access-date=May 11, 2017}}</ref> The college offers three undergraduate degrees ([[Bachelor of Science]] in Accounting, [[Bachelor of Science in Business Administration]], and Bachelor of Science in Economics); five master's programs ([[Master of Business Administration]], [[Master of Accountancy]], [[Master of Science]] in Economics, Master of Science in Real Estate, and Master of Science in Mathematical Finance as well as a Professional Science Master's (PSM) program in Data Science and Business Analytics); a Doctorate in Business Administration and a Ph.D. in Business Administration concentrating in finance.<ref>{{cite web|url=http://belkcollege.uncc.edu/programs/graduate-programs|title=Graduate Programs - Belk College of Business - UNC Charlotte|website=belkcollege.uncc.edu|access-date=May 11, 2017}}</ref> The college was established in 1965, became the College of Business Administration in 1971, and was renamed the Belk College of Business in honor of the [[Belk]] family in 1990.<ref>{{cite web|url=http://belkcollege.uncc.edu/belk-inc-gives-5-million-belk-college-business|title=Belk, Inc. gives $5 million to the Belk College of Business - Belk College of Business - UNC Charlotte|website=belkcollege.uncc.edu|access-date=May 11, 2017}}</ref>
+* University College - general education college for undergraduates who have not yet declared a major
+* Honors College - an honors college that seeks to provide students with a [[liberal arts college]] experience
+* Graduate School - [[graduate school]]; works with the undergraduate colleges to organize the master's and doctoral degree programs
+
+===Scholarships===
+In 2009, UNC Charlotte received the largest single donation from a private source, when The [[Leon Levine]] Family Foundation donated $9.3&nbsp;million to the university to form the Levine Scholars program.<ref>{{cite web|url=http://www.servicenation.org/blog/entry/philanthropists-give-huge-scholarship-to-adavnce-community-service|title=ServiceNation: Philanthropists give huge scholarship to advance community service|access-date=May 11, 2017|archive-url=https://web.archive.org/web/20100621093536/http://www.servicenation.org/blog/entry/philanthropists-give-huge-scholarship-to-adavnce-community-service/|archive-date=June 21, 2010|url-status=dead|df=mdy-all}}</ref> The scholarship program, named for Leon and Sandra Levine, provides a four-year scholarship to UNC Charlotte. The scholarship includes tuition, fees, books, room, four summer experiences, and an $8,000 grant for community service initiatives.
+
+In addition to the Levine Scholars, the university offers eleven other merit-based scholarship programs.<ref>{{cite web|url=http://finaid.uncc.edu/ScholarshipSearch.asp?alpha=0&college=3&program=0&grade=0&resident=0&Submit=Check+Scholarship+Availability&search=1|title=Scholarship Listing|website=finaid.uncc.edu|access-date=May 11, 2017}}</ref>
+
+===Library system===
+UNC Charlotte's J. Murrey Atkins Library, named for the first chairman of the Board of Trustees of Charlotte College, has over 3.3 million volumes, including 930,000 e-books, over 400 databases, and approximately 75,000 journals, the vast majority available electronically,<ref name="library.uncc.edu">{{cite web|url=http://library.uncc.edu/atkins/deanswelcomeletter|title=Dean's Welcome Letter - J. Murrey Atkins Library - UNC Charlotte|website=library.uncc.edu|access-date=May 11, 2017}}</ref> as well as an area for special collections. The recently renovated library includes a ten-story tower that accentuates the library's place at the heart of UNC Charlotte's campus. In April 2007, Atkins received its one-millionth volume, a copy of [[T. S. Eliot]]'s ''[[The Waste Land]]''. A special collections section is housed on the tenth floor at the top of the library.<ref name="library.uncc.edu"/> <!--Try to add more to this paragraph so that the library picture does not mess up the next section's header. The following line-returns are there to fix this problem until it can be better fixed.-->
+
+==Athletics==
+{{main|Charlotte 49ers}}
+For athletics purposes, the school is known as simply '''Charlotte''', a change made official by the athletic department on August 23, 2000. The athletic department sponsors sixteen varsity teams and competes in the NCAA's Division I. The university is a full member of [[Conference USA]]. On September 18, 2008, Chancellor Dubois recommended adding a [[Division I FCS]] football program to UNC Charlotte. On November 13, 2008, the UNC Charlotte Board of Trustees voted 8–0 in favor of adding football to the university.
+
+The nickname of the athletic team is the ''49ers'', indicative of the fact that UNC Charlotte (then Charlotte College) was saved from permanent closure in 1949. The mascot is "Norm the Niner," a gold miner. The school's colors are green and white; gold and black are both featured in the logo and frequently used in the uniforms of several sports.
+
+===Men's basketball===
+{{main|Charlotte 49ers men's basketball}}
+Men's basketball, coached by [[Ron Sanchez]]. The team has reached the [[NCAA Men's Division I Basketball Championship|NCAA Tournament]] eleven times, including a trip to the Final Four in 1977. [[National Basketball Association|NBA]] players that once suited up for the 49ers include [[Boston Celtics]] great [[Cedric Maxwell]], [[DeMarco Johnson]], [[2001 NBA Draft]] lottery pick [[Rodney White]], and [[Eddie Basden]].
+
+===Women's basketball===
+Women's basketball has seen a surge in popularity on campus over the past several years, with the 2003 team, led by coach [[Katie Meier]], reaching the NCAA Tournament for the first time. The team has made the WNIT in every season since then. Meier was succeeded in 2005 by [[Amanda Butler]], who left after two seasons to take over the same position at the [[University of Florida]]. [[Karen Aston]] took the reins for the 2007–08 season; Cara Consuegra served as head coach for the 2011 season.<ref>{{cite web|title=Charlotte 49ers|url=http://www.charlotte49ers.com/ViewArticle.dbml?SPSID=589968&SPID=44800&DB_LANG=C&DB_OEM_ID=23200&ATCLID=205146046&Q_SEASON=2010|access-date=June 21, 2011|archive-url=https://web.archive.org/web/20120325125155/http://www.charlotte49ers.com/ViewArticle.dbml?SPSID=589968&SPID=44800&DB_LANG=C&DB_OEM_ID=23200&ATCLID=205146046&Q_SEASON=2010|archive-date=March 25, 2012|url-status=dead|df=mdy-all}}</ref>
+
+===Baseball===
+Baseball has also experienced a resurgence at Charlotte, with the 2007 team posting a school-record 49 wins under coach [[Loren Hibbs]] and winning two games over [[NC State Wolfpack|N.C. State]] in the [[2007 NCAA Division I Baseball Tournament|NCAA Tournament]]. Baseball alums with Major League experience include [[Chris Haney]] ([[Kansas City Royals]]), [[John Maine]] ([[New York Mets]]), [[Jason Stanford (baseball)|Jason Stanford]] ([[Cleveland Indians]]). [[Fieldin Culbreth]] is an MLB umpire who worked the 2008 World Series. Other notable baseball alums include minor leaguers [[Adam Mills]] and [[Spencer Steedley]]. Mills was a finalist in 2007 for the [[Roger Clemens Award]]. He is currently in the [[Boston Red Sox]] system, while Steedley is in the [[Minnesota Twins]] system.
+
+===Football===
+{{main|Charlotte 49ers football}}
+[[File:JRS Entrance 3.jpg|250px|thumb|right|Entrance 3 of Jerry Richardson Stadium on the campus of UNC Charlotte]]
+Charlotte's [[Division I FCS]] football team kicked off in 2013. It plays at [[Jerry Richardson Stadium]], which holds approximately 15,000 people and can be expanded to hold up to 40,000 people. Its first game was a 52-7 victory against [[Campbell University]] on August 31, 2013.<ref>Scott, David. [http://www.charlotteobserver.com/2013/08/31/4278335/charlotte-49ers-pummel-campbell.html#.Uie8gH_hdLs "Charlotte 49ers pummel Campbell in football opener, 52-7] {{webarchive|url=https://web.archive.org/web/20131030103312/http://www.charlotteobserver.com/2013/08/31/4278335/charlotte-49ers-pummel-campbell.html |date=October 30, 2013 }}, ''[[The Charlotte Observer]]'', August 31, 2013.</ref>
+
+The football program moved up to [[Division I FBS]] in 2015 and play as members of [[Conference USA]]. The Charlotte 49ers participated in their first bowl game in 2019 against the [[Buffalo Bulls football|Buffalo Bulls]] in the [[2019 Bahamas Bowl|Bahamas Bowl]].
+
+Charlotte has had 4 players selected in the NFL Draft; [[Larry Ogunjobi]], [[Nate Davis (offensive lineman)|Nate Davis]], [[Alex Highsmith]], and [[Cameron Clark (American football)|Cameron Clark]].
+
+===Golf===
+In September 2007, the Charlotte golf team became the top-rated golf team in the nation.<ref>{{cite web|url=http://www.publicrelations.uncc.edu/default.asp?id=15&objId=309|title=UNC Charlotte :: Public Relations :: News Release Detail|access-date=May 11, 2017|archive-url=https://web.archive.org/web/20071120020154/http://www.publicrelations.uncc.edu/default.asp?id=15&objId=309|archive-date=November 20, 2007|url-status=dead|df=mdy-all}}</ref>
+
+===Men's soccer===
+The men's soccer team reached the [[NCAA Division I Men's Soccer Championship|College Cup]] in 1996 and 2011. The team advanced all the way to the [[2011 NCAA Division I Men's Soccer Championship]], losing to UNC-Chapel Hill and finishing second in the national polls. Former 49ers soccer players now playing in the [[Major League Soccer|MLS]] include [[Floyd Franks]], [[Donnie Smith]] and [[Jon Busch]]. The team won a conference title in 2013-2014.
+
+===Track and field===
+The men's and women's track and field teams have also made national berth, throughout the school's history. Their most notable athlete is [[Shareese Woods]]. She is the most decorated athlete in school history, running professionally for ADIDAS.
+
+===Volleyball===
+Women's volleyball is one of the largest sponsors of the [[Side-Out Foundation]]'s "Dig Pink" for breast cancer awareness.{{Citation needed|date=August 2012}}
+
+==Student organizations==
+{{main|List of UNC Charlotte student organizations}}
+There are a large number of student organizations associated with the university. Their focuses include academic, graduate, honor societies, interest, international, multicultural, political, religious, service, secret societies, and sports. UNC Charlotte also boasts a diverse Greek life, with over 10 sororities and 14 fraternities serving the campus community.<ref>{{cite web|url=http://entrepreneurship.uncc.edu/students/student-groups|title=student-groups|website=uncc.edu}}{{Dead link|date=September 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+==University name==
+The official name of the university is "The University of North Carolina at Charlotte". "UNC Charlotte" and "UNCC" have been accepted as shortened versions of the name, and the athletic department has used "Charlotte" since 2000.<ref>{{cite web|url=http://brand.uncc.edu/sites/brand.uncc.edu/files/media/PDFs/UNC_Charlotte_ISG_2009FEB19.pdf|title=Brand - Division of University Advancement - UNC Charlotte|website=brand.uncc.edu|access-date=May 11, 2017}}</ref>
+
+==Transportation on campus==
+
+===Niner Transit===
+Niner Transit is the university's free bus system on campus. The four bus lines in the system are Copper, Green, Gold, and Silver.<ref>{{cite web|url=https://pats.uncc.edu/ninertransit|title=Niner Transit Bus Service - Parking and Transportation Services - UNC Charlotte|website=pats.uncc.edu}}</ref>
+
+===Light rail===
+The [[Lynx Blue Line]] began service on its extension in March 2018. It serves UNCC via the [[JW Clay Blvd/UNC Charlotte station]] and the [[UNC Charlotte-Main station]], the northern terminus. The line runs to Uptown Charlotte and South Charlotte. The service is free for students.<ref>{{cite web|url=https://lightrail.uncc.edu/|title=Light Rail Connects Us - Light Rail - UNC Charlotte|website=lightrail.uncc.edu}}</ref>
+
+===CATS buses===
+UNC Charlotte is served also by the [[Charlotte Area Transit System]], or CATS, 29 bus line. Bus 29 stops near East Deck 1 and runs between the JW Clay/UNC Charlotte station bus terminal and Walmart on Independence Blvd.<ref>{{cite web|url=http://charlottenc.gov/cats/bus/routes/Pages/default.aspx|title=Routes and Schedules|website=City of Charlotte Government}}</ref>
+
+==Notable alumni and faculty==
+{{main|List of University of North Carolina at Charlotte people}}
+
+Every graduate of UNC Charlotte automatically becomes a member of the Alumni Association, an organization of more than 147,000 former students whose primary purpose is to advance the interests of the university. There are no membership fees or annual dues, but there is an expectation that members will be active participants in the organization. In addition to promoting the interests of UNC Charlotte, the Alumni Association acts as a network of UNC Charlotte graduates who assist each other in their personal, professional and social development, and recognize and cheer the accomplishments of their fellow members. The association offers members a number of benefits and services. Some are in the form of information and communications, including a UNC Charlotte magazine and a quarterly electronic newsletter which keeps alumni up to date on news from the association and the university. The only requirement for membership is that alumni maintain contact with the Office of Alumni Affairs, provide an up-to-date address for alumni files, and keep the association informed about their personal progress and career achievements.
+
+== See also ==
+* [[Dale F. Halton Arena]]
+* [[Lee Rose (basketball)|Lee Rose]]
+* [[Jeff Mullins (basketball)|Jeff Mullins]]
+* [[Bobby Lutz (basketball)|Bobby Lutz]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons}}
+* {{Official website|http://www.uncc.edu}}
+* [http://www.charlotte49ers.com/ Charlotte Athletics website]
+
+{{University of North Carolina at Charlotte}}
+{{Navboxes
+|titlestyle = {{CollegePrimaryStyle|Charlotte 49ers|color=white}}
+|list =
+{{UNC Charlotte leaders}}
+{{University of North Carolina}}
+{{ChaUniCol}}
+{{Conference USA navbox}}
+}}
+{{coord|35|18|12.80|N|80|43|56.57|W|dim:500_scale:5000_region:US-NC_type:landmark_source:dewiki|display=title}}
+
+{{authority control}}
+
+{{DEFAULTSORT:North Carolina At Charlotte, University Of}}
+[[Category:University of North Carolina at Charlotte| ]]
+[[Category:Educational institutions established in 1946]]
+[[Category:Universities and colleges in Charlotte, North Carolina]]
+[[Category:Public universities and colleges in North Carolina|University of North Carolina at Charlotte]]
+[[Category:Universities and colleges accredited by the Southern Association of Colleges and Schools]]
+[[Category:1946 establishments in North Carolina]]
